@@ -1,0 +1,618 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Premium Mens Sherwani - Vol 1",
+      "category": "Menswear",
+      "price": 3800,
+      "image": "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?w=800&q=80",
+      "description": "A stunning readymade piece for Men. Flawless stitch and fabric."
+    },
+    {
+      "id": 2,
+      "name": "Premium Mens Kurta Set - Vol 2",
+      "category": "Menswear",
+      "price": 2800,
+      "image": "https://images.unsplash.com/photo-1585046291871-9c172ee20fb2?w=800&q=80",
+      "description": "A stunning readymade piece for Men. Flawless stitch and fabric."
+    },
+    {
+      "id": 3,
+      "name": "Premium Mens Suit - Vol 3",
+      "category": "Menswear",
+      "price": 2600,
+      "image": "https://images.unsplash.com/photo-1506645292803-579c17d4ba6a?w=800&q=80",
+      "description": "A stunning readymade piece for Men. Flawless stitch and fabric."
+    },
+    {
+      "id": 4,
+      "name": "Premium Mens Blazer - Vol 4",
+      "category": "Menswear",
+      "price": 1800,
+      "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&q=80",
+      "description": "A stunning readymade piece for Men. Flawless stitch and fabric."
+    },
+    {
+      "id": 5,
+      "name": "Premium Mens Jodhpuri - Vol 5",
+      "category": "Menswear",
+      "price": 4200,
+      "image": "https://images.unsplash.com/photo-1594938298595-0a0026e6f987?w=800&q=80",
+      "description": "A stunning readymade piece for Men. Flawless stitch and fabric."
+    },
+    {
+      "id": 6,
+      "name": "Premium Mens Casual Shirt - Vol 6",
+      "category": "Menswear",
+      "price": 3800,
+      "image": "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?w=800&q=80",
+      "description": "A stunning readymade piece for Men. Flawless stitch and fabric."
+    },
+    {
+      "id": 7,
+      "name": "Premium Mens Denim Jacket - Vol 7",
+      "category": "Menswear",
+      "price": 3900,
+      "image": "https://images.unsplash.com/photo-1585046291871-9c172ee20fb2?w=800&q=80",
+      "description": "A stunning readymade piece for Men. Flawless stitch and fabric."
+    },
+    {
+      "id": 8,
+      "name": "Premium Mens Formal Trousers - Vol 8",
+      "category": "Menswear",
+      "price": 1900,
+      "image": "https://images.unsplash.com/photo-1506645292803-579c17d4ba6a?w=800&q=80",
+      "description": "A stunning readymade piece for Men. Flawless stitch and fabric."
+    },
+    {
+      "id": 9,
+      "name": "Premium Mens Waistcoat - Vol 9",
+      "category": "Menswear",
+      "price": 1900,
+      "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&q=80",
+      "description": "A stunning readymade piece for Men. Flawless stitch and fabric."
+    },
+    {
+      "id": 10,
+      "name": "Premium Mens Tuxedo - Vol 10",
+      "category": "Menswear",
+      "price": 2500,
+      "image": "https://images.unsplash.com/photo-1594938298595-0a0026e6f987?w=800&q=80",
+      "description": "A stunning readymade piece for Men. Flawless stitch and fabric."
+    },
+    {
+      "id": 11,
+      "name": "Premium Mens Sherwani - Vol 11",
+      "category": "Menswear",
+      "price": 1800,
+      "image": "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?w=800&q=80",
+      "description": "A stunning readymade piece for Men. Flawless stitch and fabric."
+    },
+    {
+      "id": 12,
+      "name": "Premium Mens Kurta Set - Vol 12",
+      "category": "Menswear",
+      "price": 1500,
+      "image": "https://images.unsplash.com/photo-1585046291871-9c172ee20fb2?w=800&q=80",
+      "description": "A stunning readymade piece for Men. Flawless stitch and fabric."
+    },
+    {
+      "id": 13,
+      "name": "Premium Mens Suit - Vol 13",
+      "category": "Menswear",
+      "price": 3900,
+      "image": "https://images.unsplash.com/photo-1506645292803-579c17d4ba6a?w=800&q=80",
+      "description": "A stunning readymade piece for Men. Flawless stitch and fabric."
+    },
+    {
+      "id": 14,
+      "name": "Premium Mens Blazer - Vol 14",
+      "category": "Menswear",
+      "price": 3400,
+      "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&q=80",
+      "description": "A stunning readymade piece for Men. Flawless stitch and fabric."
+    },
+    {
+      "id": 15,
+      "name": "Premium Mens Jodhpuri - Vol 15",
+      "category": "Menswear",
+      "price": 1700,
+      "image": "https://images.unsplash.com/photo-1594938298595-0a0026e6f987?w=800&q=80",
+      "description": "A stunning readymade piece for Men. Flawless stitch and fabric."
+    },
+    {
+      "id": 16,
+      "name": "Premium Mens Casual Shirt - Vol 16",
+      "category": "Menswear",
+      "price": 4100,
+      "image": "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?w=800&q=80",
+      "description": "A stunning readymade piece for Men. Flawless stitch and fabric."
+    },
+    {
+      "id": 17,
+      "name": "Premium Mens Denim Jacket - Vol 17",
+      "category": "Menswear",
+      "price": 3300,
+      "image": "https://images.unsplash.com/photo-1585046291871-9c172ee20fb2?w=800&q=80",
+      "description": "A stunning readymade piece for Men. Flawless stitch and fabric."
+    },
+    {
+      "id": 18,
+      "name": "Premium Mens Formal Trousers - Vol 18",
+      "category": "Menswear",
+      "price": 4200,
+      "image": "https://images.unsplash.com/photo-1506645292803-579c17d4ba6a?w=800&q=80",
+      "description": "A stunning readymade piece for Men. Flawless stitch and fabric."
+    },
+    {
+      "id": 19,
+      "name": "Premium Mens Waistcoat - Vol 19",
+      "category": "Menswear",
+      "price": 4400,
+      "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&q=80",
+      "description": "A stunning readymade piece for Men. Flawless stitch and fabric."
+    },
+    {
+      "id": 20,
+      "name": "Premium Mens Tuxedo - Vol 20",
+      "category": "Menswear",
+      "price": 1500,
+      "image": "https://images.unsplash.com/photo-1594938298595-0a0026e6f987?w=800&q=80",
+      "description": "A stunning readymade piece for Men. Flawless stitch and fabric."
+    },
+    {
+      "id": 21,
+      "name": "Extravagant Womens Lehenga - Vol 1",
+      "category": "Womenswear",
+      "price": 5800,
+      "image": "https://images.unsplash.com/photo-1615886753866-79396abc446e?w=800&q=80",
+      "description": "An elegant readymade selection for Women. Perfect for occasions."
+    },
+    {
+      "id": 22,
+      "name": "Extravagant Womens Anarkali - Vol 2",
+      "category": "Womenswear",
+      "price": 3300,
+      "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=800&q=80",
+      "description": "An elegant readymade selection for Women. Perfect for occasions."
+    },
+    {
+      "id": 23,
+      "name": "Extravagant Womens Gown - Vol 3",
+      "category": "Womenswear",
+      "price": 4800,
+      "image": "https://images.unsplash.com/photo-1605763240000-7e93b172d754?w=800&q=80",
+      "description": "An elegant readymade selection for Women. Perfect for occasions."
+    },
+    {
+      "id": 24,
+      "name": "Extravagant Womens Kurti - Vol 4",
+      "category": "Womenswear",
+      "price": 4100,
+      "image": "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?w=800&q=80",
+      "description": "An elegant readymade selection for Women. Perfect for occasions."
+    },
+    {
+      "id": 25,
+      "name": "Extravagant Womens Maxi Dress - Vol 5",
+      "category": "Womenswear",
+      "price": 6000,
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800&q=80",
+      "description": "An elegant readymade selection for Women. Perfect for occasions."
+    },
+    {
+      "id": 26,
+      "name": "Extravagant Womens Sharara - Vol 6",
+      "category": "Womenswear",
+      "price": 2800,
+      "image": "https://images.unsplash.com/photo-1615886753866-79396abc446e?w=800&q=80",
+      "description": "An elegant readymade selection for Women. Perfect for occasions."
+    },
+    {
+      "id": 27,
+      "name": "Extravagant Womens Salwar Suit - Vol 7",
+      "category": "Womenswear",
+      "price": 4800,
+      "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=800&q=80",
+      "description": "An elegant readymade selection for Women. Perfect for occasions."
+    },
+    {
+      "id": 28,
+      "name": "Extravagant Womens Palazzo Set - Vol 8",
+      "category": "Womenswear",
+      "price": 7100,
+      "image": "https://images.unsplash.com/photo-1605763240000-7e93b172d754?w=800&q=80",
+      "description": "An elegant readymade selection for Women. Perfect for occasions."
+    },
+    {
+      "id": 29,
+      "name": "Extravagant Womens Georgette Drape - Vol 9",
+      "category": "Womenswear",
+      "price": 4600,
+      "image": "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?w=800&q=80",
+      "description": "An elegant readymade selection for Women. Perfect for occasions."
+    },
+    {
+      "id": 30,
+      "name": "Extravagant Womens Saree - Vol 10",
+      "category": "Womenswear",
+      "price": 7400,
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800&q=80",
+      "description": "An elegant readymade selection for Women. Perfect for occasions."
+    },
+    {
+      "id": 31,
+      "name": "Extravagant Womens Lehenga - Vol 11",
+      "category": "Womenswear",
+      "price": 4800,
+      "image": "https://images.unsplash.com/photo-1615886753866-79396abc446e?w=800&q=80",
+      "description": "An elegant readymade selection for Women. Perfect for occasions."
+    },
+    {
+      "id": 32,
+      "name": "Extravagant Womens Anarkali - Vol 12",
+      "category": "Womenswear",
+      "price": 7000,
+      "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=800&q=80",
+      "description": "An elegant readymade selection for Women. Perfect for occasions."
+    },
+    {
+      "id": 33,
+      "name": "Extravagant Womens Gown - Vol 13",
+      "category": "Womenswear",
+      "price": 6900,
+      "image": "https://images.unsplash.com/photo-1605763240000-7e93b172d754?w=800&q=80",
+      "description": "An elegant readymade selection for Women. Perfect for occasions."
+    },
+    {
+      "id": 34,
+      "name": "Extravagant Womens Kurti - Vol 14",
+      "category": "Womenswear",
+      "price": 7000,
+      "image": "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?w=800&q=80",
+      "description": "An elegant readymade selection for Women. Perfect for occasions."
+    },
+    {
+      "id": 35,
+      "name": "Extravagant Womens Maxi Dress - Vol 15",
+      "category": "Womenswear",
+      "price": 6200,
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800&q=80",
+      "description": "An elegant readymade selection for Women. Perfect for occasions."
+    },
+    {
+      "id": 36,
+      "name": "Extravagant Womens Sharara - Vol 16",
+      "category": "Womenswear",
+      "price": 5000,
+      "image": "https://images.unsplash.com/photo-1615886753866-79396abc446e?w=800&q=80",
+      "description": "An elegant readymade selection for Women. Perfect for occasions."
+    },
+    {
+      "id": 37,
+      "name": "Extravagant Womens Salwar Suit - Vol 17",
+      "category": "Womenswear",
+      "price": 4300,
+      "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=800&q=80",
+      "description": "An elegant readymade selection for Women. Perfect for occasions."
+    },
+    {
+      "id": 38,
+      "name": "Extravagant Womens Palazzo Set - Vol 18",
+      "category": "Womenswear",
+      "price": 7200,
+      "image": "https://images.unsplash.com/photo-1605763240000-7e93b172d754?w=800&q=80",
+      "description": "An elegant readymade selection for Women. Perfect for occasions."
+    },
+    {
+      "id": 39,
+      "name": "Extravagant Womens Georgette Drape - Vol 19",
+      "category": "Womenswear",
+      "price": 3600,
+      "image": "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?w=800&q=80",
+      "description": "An elegant readymade selection for Women. Perfect for occasions."
+    },
+    {
+      "id": 40,
+      "name": "Extravagant Womens Saree - Vol 20",
+      "category": "Womenswear",
+      "price": 5700,
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800&q=80",
+      "description": "An elegant readymade selection for Women. Perfect for occasions."
+    },
+    {
+      "id": 41,
+      "name": "Delightful Kids Girls Frock - Vol 1",
+      "category": "Kidswear",
+      "price": 1200,
+      "image": "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?w=800&q=80",
+      "description": "Comfortable and stylish wear for kids. Absolute premium quality."
+    },
+    {
+      "id": 42,
+      "name": "Delightful Kids Boys Suit - Vol 2",
+      "category": "Kidswear",
+      "price": 1100,
+      "image": "https://images.unsplash.com/photo-1614089204014-93be9ddba816?w=800&q=80",
+      "description": "Comfortable and stylish wear for kids. Absolute premium quality."
+    },
+    {
+      "id": 43,
+      "name": "Delightful Kids Girls Lehenga - Vol 3",
+      "category": "Kidswear",
+      "price": 1600,
+      "image": "https://images.unsplash.com/photo-1515488042361-b1e7ff2eb25e?w=800&q=80",
+      "description": "Comfortable and stylish wear for kids. Absolute premium quality."
+    },
+    {
+      "id": 44,
+      "name": "Delightful Kids Dungarees - Vol 4",
+      "category": "Kidswear",
+      "price": 2200,
+      "image": "https://images.unsplash.com/photo-1522771930-78848d92fa62?w=800&q=80",
+      "description": "Comfortable and stylish wear for kids. Absolute premium quality."
+    },
+    {
+      "id": 45,
+      "name": "Delightful Kids Party Gown - Vol 5",
+      "category": "Kidswear",
+      "price": 2000,
+      "image": "https://images.unsplash.com/photo-1621570169561-0c2a2e193ee1?w=800&q=80",
+      "description": "Comfortable and stylish wear for kids. Absolute premium quality."
+    },
+    {
+      "id": 46,
+      "name": "Delightful Kids Kurta Pyjama - Vol 6",
+      "category": "Kidswear",
+      "price": 2500,
+      "image": "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?w=800&q=80",
+      "description": "Comfortable and stylish wear for kids. Absolute premium quality."
+    },
+    {
+      "id": 47,
+      "name": "Delightful Kids Floral Dress - Vol 7",
+      "category": "Kidswear",
+      "price": 1900,
+      "image": "https://images.unsplash.com/photo-1614089204014-93be9ddba816?w=800&q=80",
+      "description": "Comfortable and stylish wear for kids. Absolute premium quality."
+    },
+    {
+      "id": 48,
+      "name": "Delightful Kids Velvet Jacket - Vol 8",
+      "category": "Kidswear",
+      "price": 2300,
+      "image": "https://images.unsplash.com/photo-1515488042361-b1e7ff2eb25e?w=800&q=80",
+      "description": "Comfortable and stylish wear for kids. Absolute premium quality."
+    },
+    {
+      "id": 49,
+      "name": "Delightful Kids Tutu Skirt - Vol 9",
+      "category": "Kidswear",
+      "price": 1100,
+      "image": "https://images.unsplash.com/photo-1522771930-78848d92fa62?w=800&q=80",
+      "description": "Comfortable and stylish wear for kids. Absolute premium quality."
+    },
+    {
+      "id": 50,
+      "name": "Delightful Kids Boys Sherwani - Vol 10",
+      "category": "Kidswear",
+      "price": 1700,
+      "image": "https://images.unsplash.com/photo-1621570169561-0c2a2e193ee1?w=800&q=80",
+      "description": "Comfortable and stylish wear for kids. Absolute premium quality."
+    },
+    {
+      "id": 51,
+      "name": "Delightful Kids Girls Frock - Vol 11",
+      "category": "Kidswear",
+      "price": 2100,
+      "image": "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?w=800&q=80",
+      "description": "Comfortable and stylish wear for kids. Absolute premium quality."
+    },
+    {
+      "id": 52,
+      "name": "Delightful Kids Boys Suit - Vol 12",
+      "category": "Kidswear",
+      "price": 2600,
+      "image": "https://images.unsplash.com/photo-1614089204014-93be9ddba816?w=800&q=80",
+      "description": "Comfortable and stylish wear for kids. Absolute premium quality."
+    },
+    {
+      "id": 53,
+      "name": "Delightful Kids Girls Lehenga - Vol 13",
+      "category": "Kidswear",
+      "price": 2000,
+      "image": "https://images.unsplash.com/photo-1515488042361-b1e7ff2eb25e?w=800&q=80",
+      "description": "Comfortable and stylish wear for kids. Absolute premium quality."
+    },
+    {
+      "id": 54,
+      "name": "Delightful Kids Dungarees - Vol 14",
+      "category": "Kidswear",
+      "price": 2000,
+      "image": "https://images.unsplash.com/photo-1522771930-78848d92fa62?w=800&q=80",
+      "description": "Comfortable and stylish wear for kids. Absolute premium quality."
+    },
+    {
+      "id": 55,
+      "name": "Delightful Kids Party Gown - Vol 15",
+      "category": "Kidswear",
+      "price": 1500,
+      "image": "https://images.unsplash.com/photo-1621570169561-0c2a2e193ee1?w=800&q=80",
+      "description": "Comfortable and stylish wear for kids. Absolute premium quality."
+    },
+    {
+      "id": 56,
+      "name": "Delightful Kids Kurta Pyjama - Vol 16",
+      "category": "Kidswear",
+      "price": 1800,
+      "image": "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?w=800&q=80",
+      "description": "Comfortable and stylish wear for kids. Absolute premium quality."
+    },
+    {
+      "id": 57,
+      "name": "Delightful Kids Floral Dress - Vol 17",
+      "category": "Kidswear",
+      "price": 1800,
+      "image": "https://images.unsplash.com/photo-1614089204014-93be9ddba816?w=800&q=80",
+      "description": "Comfortable and stylish wear for kids. Absolute premium quality."
+    },
+    {
+      "id": 58,
+      "name": "Delightful Kids Velvet Jacket - Vol 18",
+      "category": "Kidswear",
+      "price": 2800,
+      "image": "https://images.unsplash.com/photo-1515488042361-b1e7ff2eb25e?w=800&q=80",
+      "description": "Comfortable and stylish wear for kids. Absolute premium quality."
+    },
+    {
+      "id": 59,
+      "name": "Delightful Kids Tutu Skirt - Vol 19",
+      "category": "Kidswear",
+      "price": 2800,
+      "image": "https://images.unsplash.com/photo-1522771930-78848d92fa62?w=800&q=80",
+      "description": "Comfortable and stylish wear for kids. Absolute premium quality."
+    },
+    {
+      "id": 60,
+      "name": "Delightful Kids Boys Sherwani - Vol 20",
+      "category": "Kidswear",
+      "price": 2800,
+      "image": "https://images.unsplash.com/photo-1621570169561-0c2a2e193ee1?w=800&q=80",
+      "description": "Comfortable and stylish wear for kids. Absolute premium quality."
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "orderId": "ORD-272296",
+      "items": [
+        {
+          "id": 16,
+          "name": "Premium Mens Casual Shirt - Vol 16",
+          "category": "Menswear",
+          "price": 4100,
+          "image": "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?w=800&q=80",
+          "description": "A stunning readymade piece for Men. Flawless stitch and fabric.",
+          "cartId": "1776852452209"
+        }
+      ],
+      "total": 4100,
+      "paymentDetails": "COD",
+      "date": "2026-04-22T10:07:41.386Z"
+    },
+    {
+      "orderId": "ORD-921890",
+      "items": [
+        {
+          "id": 3,
+          "name": "Premium Mens Suit - Vol 3",
+          "category": "Menswear",
+          "price": 2600,
+          "image": "https://images.unsplash.com/photo-1506645292803-579c17d4ba6a?w=800&q=80",
+          "description": "A stunning readymade piece for Men. Flawless stitch and fabric.",
+          "cartId": "1776852478248"
+        }
+      ],
+      "total": 2600,
+      "paymentDetails": "UPI",
+      "date": "2026-04-22T10:08:04.043Z"
+    },
+    {
+      "orderId": "ORD-716716",
+      "items": [
+        {
+          "id": 1,
+          "name": "Premium Mens Sherwani - Vol 1",
+          "category": "Menswear",
+          "price": 3800,
+          "image": "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?w=800&q=80",
+          "description": "A stunning readymade piece for Men. Flawless stitch and fabric.",
+          "cartId": "1776852772164"
+        }
+      ],
+      "total": 3800,
+      "paymentDetails": "COD",
+      "date": "2026-04-22T10:13:33.931Z"
+    },
+    {
+      "orderId": "ORD-913158",
+      "items": [
+        {
+          "id": 43,
+          "name": "Delightful Kids Girls Lehenga - Vol 3",
+          "category": "Kidswear",
+          "price": 1600,
+          "image": "https://images.unsplash.com/photo-1515488042361-b1e7ff2eb25e?w=800&q=80",
+          "description": "Comfortable and stylish wear for kids. Absolute premium quality.",
+          "cartId": "1776852964242"
+        }
+      ],
+      "total": 1600,
+      "paymentDetails": "COD",
+      "shippingDetails": {
+        "name": "Aditya Gupta",
+        "email": "aditiyagupta5975@gmail.com",
+        "phone": "09973106599",
+        "address": "Near Uttar Bihar Gramin Bank"
+      },
+      "status": "Processing",
+      "date": "2026-04-22T10:16:14.228Z"
+    },
+    {
+      "orderId": "ORD-67057",
+      "items": [
+        {
+          "id": 41,
+          "name": "Delightful Kids Girls Frock - Vol 1",
+          "category": "Kidswear",
+          "price": 1200,
+          "image": "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?w=800&q=80",
+          "description": "Comfortable and stylish wear for kids. Absolute premium quality.",
+          "cartId": "1776853031239"
+        }
+      ],
+      "total": 1200,
+      "paymentDetails": "COD",
+      "shippingDetails": {
+        "name": "saurav",
+        "email": "asdfg@gmail.com",
+        "phone": "09973106599",
+        "address": "Near Uttar Bihar Gramin Bank"
+      },
+      "status": "Processing",
+      "date": "2026-04-22T10:17:38.300Z"
+    },
+    {
+      "orderId": "ORD-368071",
+      "items": [
+        {
+          "id": 1,
+          "name": "Premium Mens Sherwani - Vol 1",
+          "category": "Menswear",
+          "price": 3800,
+          "image": "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?w=800&q=80",
+          "description": "A stunning readymade piece for Men. Flawless stitch and fabric.",
+          "cartId": "1776853146200"
+        }
+      ],
+      "total": 3800,
+      "paymentDetails": "COD",
+      "shippingDetails": {
+        "name": "aditya",
+        "email": "aditya@gmail.com",
+        "phone": "09973106599",
+        "address": "Near Uttar Bihar Gramin Bank"
+      },
+      "status": "Processing",
+      "date": "2026-04-22T10:19:15.226Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "1776853133624",
+      "name": "aditya",
+      "email": "aditya@gmail.com",
+      "password": "12345"
+    }
+  ]
+}
